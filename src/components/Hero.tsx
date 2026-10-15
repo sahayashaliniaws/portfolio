@@ -266,14 +266,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume, onOpenTerminal }) => {
               <div className="relative rounded-2xl bg-gradient-to-b from-gray-800/80 to-gray-900/90 border border-sky-500/30 p-3 shadow-2xl backdrop-blur-xl">
                 
                 {/* Profile Portrait Image */}
-                <div className="relative aspect-square overflow-hidden rounded-xl bg-gray-950 group">
-                  <img
-                    src="/assets/shalini.jpg"
-                    alt="Sahaya Shalini S - AWS Cloud & DevOps Engineer"
-                    className="w-full h-full object-cover object-top filter brightness-95 contrast-105 group-hover:scale-105 transition-transform duration-500"
-                    loading="eager"
-                  />
-                </div>
+                
               </div>
             </div>
           </div>
