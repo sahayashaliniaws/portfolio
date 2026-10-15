@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Reveal, ScaleIn } from './Motion';
+import { Reveal } from './Motion';
 import { 
   User, 
   GraduationCap, 

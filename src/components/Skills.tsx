@@ -10,7 +10,7 @@ import {
   Sparkles
 } from 'lucide-react';
 import { skillCategories } from '../data/portfolioData';
-import { Reveal, StaggerContainer, StaggerItem } from './Motion';
+import { Reveal, StaggerContainer } from './Motion';
 
 export const Skills: React.FC = () => {
   const [selectedCategory, setSelectedCategory] = useState<string>('All');
