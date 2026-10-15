@@ -78,13 +78,13 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenResume, onOpenTerminal }) 
             <div>
               <div className="flex items-center gap-2">
                 <span className="font-heading font-bold text-lg text-white tracking-wide">
-                  Shalini<span className="text-sky-400">.aws</span>
+                  Sahaya Shalini S<span className="text-sky-400"></span>
                 </span>
                 <span className="hidden sm:inline-block text-[10px] uppercase font-mono px-2 py-0.5 rounded-full bg-blue-500/10 text-sky-400 border border-blue-500/30">
-                  DevOps
+                  Cloud & DevOps
                 </span>
               </div>
-              <p className="text-[11px] text-gray-400 hidden sm:block">AWS Cloud Engineer</p>
+              <p className="text-[11px] text-gray-400 hidden sm:block">AWS DevOps Engineer</p>
             </div>
           </a>
 
