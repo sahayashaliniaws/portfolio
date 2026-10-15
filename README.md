@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-six-ecru-72.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/sahayashaliniaws/">💻 GitHub</a> •
+  <a href="https://portfolio-six-ecru-72.vercel.app/">🌐 Portfolio</a> 
+  <a href="https://github.com/sahayashaliniaws/">💻 GitHub</a> 
 </p>
 
 ## 👨‍💻 About Me
