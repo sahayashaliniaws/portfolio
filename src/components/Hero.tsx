@@ -282,49 +282,11 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume, onOpenTerminal }) => {
                 {/* Profile Portrait Image */}
                 <div className="relative aspect-square overflow-hidden rounded-xl bg-gray-950 group">
                   <img
-                    src="/assets/profile.jpg"
+                    src="/assets/shalini.jpg"
                     alt="Sahaya Shalini S - AWS Cloud & DevOps Engineer"
                     className="w-full h-full object-cover object-top filter brightness-95 contrast-105 group-hover:scale-105 transition-transform duration-500"
                     loading="eager"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-[#0B1120] via-transparent to-transparent opacity-80" />
-
-                  {/* Floating Overlay Badge: System Status */}
-                  <div className="absolute bottom-3 left-3 right-3 p-3 rounded-xl bg-[#0B1120]/85 backdrop-blur-md border border-sky-500/30 text-xs">
-                    <div className="flex items-center justify-between mb-1">
-                      <span className="text-gray-300 font-medium">AWS Production Cluster</span>
-                      <span className="font-mono text-emerald-400 font-bold">99.99% Uptime</span>
-                    </div>
-                    <div className="flex items-center justify-between text-[11px] text-gray-400 font-mono">
-                      <span>Multi-AZ Active</span>
-                      <span>Latency: &lt; 28ms</span>
-                    </div>
-                  </div>
-                </div>
-
-                {/* Quick Highlights Footer */}
-                <div className="grid grid-cols-2 gap-2 mt-3 pt-2 text-center text-xs">
-                  <div className="p-2 rounded-lg bg-gray-950/60 border border-gray-800">
-                    <div className="font-heading font-bold text-sky-400 text-sm">HCLTech / Fiserv</div>
-                    <div className="text-[10px] text-gray-400">Client DevOps Eng.</div>
-                  </div>
-                  <div className="p-2 rounded-lg bg-gray-950/60 border border-gray-800">
-                    <div className="font-heading font-bold text-cyan-400 text-sm">AWS Certified</div>
-                    <div className="text-[10px] text-gray-400">Cloud Practitioner</div>
-                  </div>
-                </div>
-
-              </div>
-
-              {/* Floating Orbit Badges */}
-              <div className="hidden sm:flex absolute -top-4 -right-4 px-3 py-1.5 rounded-xl bg-[#111827]/90 border border-blue-500/40 backdrop-blur-md shadow-xl text-xs font-mono text-sky-300 items-center gap-1.5 animate-float">
-                <Cloud className="w-3.5 h-3.5 text-sky-400" />
-                <span>AWS EKS & ECS</span>
-              </div>
-
-              <div className="hidden sm:flex absolute -bottom-3 -left-4 px-3 py-1.5 rounded-xl bg-[#111827]/90 border border-purple-500/40 backdrop-blur-md shadow-xl text-xs font-mono text-purple-300 items-center gap-1.5">
-                <Layers className="w-3.5 h-3.5 text-purple-400" />
-                <span>Terraform IaC</span>
+                  />                
               </div>
 
             </div>
