@@ -265,20 +265,6 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume, onOpenTerminal }) => {
               {/* Main Card Frame */}
               <div className="relative rounded-2xl bg-gradient-to-b from-gray-800/80 to-gray-900/90 border border-sky-500/30 p-3 shadow-2xl backdrop-blur-xl">
                 
-                {/* Visual Header / Terminal Bar */}
-                <div className="flex items-center justify-between px-3 py-2 bg-gray-950/80 rounded-t-xl border-b border-gray-800 text-[11px] font-mono text-gray-400">
-                  <div className="flex items-center gap-1.5">
-                    <span className="w-2.5 h-2.5 rounded-full bg-red-500/80" />
-                    <span className="w-2.5 h-2.5 rounded-full bg-amber-500/80" />
-                    <span className="w-2.5 h-2.5 rounded-full bg-emerald-500/80" />
-                    <span className="ml-2 text-gray-300">aws-prod-ops // us-east-1</span>
-                  </div>
-                  <span className="text-emerald-400 flex items-center gap-1">
-                    <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping" />
-                    HEALTHY
-                  </span>
-                </div>
-
                 {/* Profile Portrait Image */}
                 <div className="relative aspect-square overflow-hidden rounded-xl bg-gray-950 group">
                   <img
@@ -286,13 +272,12 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume, onOpenTerminal }) => {
                     alt="Sahaya Shalini S - AWS Cloud & DevOps Engineer"
                     className="w-full h-full object-cover object-top filter brightness-95 contrast-105 group-hover:scale-105 transition-transform duration-500"
                     loading="eager"
-                  />                
+                  />
+                </div>
               </div>
-
             </div>
           </div>
-
-        </div>
+          </div>
 
         {/* Bottom Key Metric Stats Grid */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-16 pt-8 border-t border-gray-800/80">
