@@ -78,7 +78,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenResume, onOpenTerminal }) 
             <div>
               <div className="flex items-center gap-2">
                 <span className="font-heading font-bold text-lg text-white tracking-wide">
-                  Sahaya Shalini S<span className="text-sky-400"></span>
+                  Sahaya Shalini<span className="text-sky-400"></span>
                 </span>
                 <span className="hidden sm:inline-block text-[10px] uppercase font-mono px-2 py-0.5 rounded-full bg-blue-500/10 text-sky-400 border border-blue-500/30">
                   Cloud & DevOps
