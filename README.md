@@ -36,7 +36,7 @@ A hands-on cloud project focused on deploying a Java-based game server with load
 - Explored DynamoDB for session-related data.
 - Used CloudWatch for monitoring and operational visibility.
 
-🔗 **[View Project on GitHub](https://github.com/sahayashaliniaws/portfolio)**
+🔗 **[View Project on GitHub](https://github.com/sahayashaliniaws/Scalable-Gaming-Server)**
 
 ### 2. CI/CD Pipeline Automation
 
@@ -66,7 +66,7 @@ A practical Infrastructure as Code project focused on provisioning and managing 
 - Explored modular infrastructure configuration.
 - Practiced repeatable infrastructure deployment and cleanup.
 
-🔗 **[Explore My GitHub Repositories](https://github.com/sahayashaliniaws?tab=repositories)**
+🔗 **[Explore My GitHub Repositories](https://github.com/sahayashaliniaws)**
 
 ### 4. Portfolio Website Deployment
 
@@ -140,7 +140,6 @@ I'm interested in opportunities in **AWS Cloud Engineering, DevOps Engineering, 
 
 <p align="center">
   <a href="(https://portfolio-six-ecru-72.vercel.app/)">🌐 Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">📧 Email Me</a>
 </p>
 
 ---
