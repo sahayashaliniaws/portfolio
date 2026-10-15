@@ -1,4 +1,4 @@
-# Hi, I'm Sahaya Shalini S 👋
+# Hi, I'm Sahaya Shalini S 
 ### AWS Cloud & DevOps Engineer | Cloud Infrastructure | CI/CD | Infrastructure as Code | Kubernetes | Ansible 
 
 <p align="center">
